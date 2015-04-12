@@ -1,0 +1,5 @@
+References:
+
+1) The Udacity Forums!
+2) W3Schools - Searching for various function explainations. Especially for isNan()
+3) Stack Overflow for checking Sytax...various 
